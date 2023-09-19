@@ -20,3 +20,13 @@
 .DS_Store
 
 *.mp4
+
+outputs/
+
+predicted_masks/
+
+osm_maps/
+
+satellite_googlemaps_tests/
+
+inputs.zip

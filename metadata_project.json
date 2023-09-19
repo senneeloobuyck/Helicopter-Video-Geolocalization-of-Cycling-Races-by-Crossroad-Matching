@@ -1,0 +1,17 @@
+{
+  "courses": {
+    "kuurne-brussel-kuurne": {
+      "gpx_course": "2020 Kuurne Brussel Kuurne course.gpx",
+      "csv_heli": "2020 Kuurne Brussel Kuurne heli.csv",
+      "vid": "2020-Kuurne-Brussel-Kuurne_512x512.mp4",
+      "alias": "2020_KBK"
+    }
+  },
+  "markings": {
+    "shark-teeth": {
+      "way": {
+        "highway": "crossing"
+      }
+    }
+  }
+}

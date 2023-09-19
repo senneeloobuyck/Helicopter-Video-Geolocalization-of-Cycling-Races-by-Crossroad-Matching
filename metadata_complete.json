@@ -1,0 +1,44 @@
+{
+  "courses": {
+    "kuurne-brussel-kuurne": {
+      "gpx_course": "2020 Kuurne Brussel Kuurne course.gpx",
+      "csv_heli": "2020 Kuurne Brussel Kuurne heli.csv",
+      "vid": "2020-Kuurne-Brussel-Kuurne.mp4",
+      "alias": "2020_KBK"
+    },
+    "ronde-van-vlaanderen": {
+      "gpx_course": "2023 Ronde van Vlaanderen course.gpx",
+      "csv_heli": "2023 Ronde van Vlaanderen 1 heli.csv",
+      "vid": "2023-Ronde-van-Vlaanderen-1.mp4",
+      "alias": "2023_RVV"
+    },
+    "omloop-het-nieuwsblad": {
+      "gpx_course": "2023 Omloop het Nieuwsblad M course.gpx",
+      "csv_heli": null,
+      "vid": "2023-Omloop-het-Nieuwsblad.mp4",
+      "alias": "2023_OHN"
+    }
+  },
+  "markings": {
+    "zebra-crossings": {
+      "node": ["\"highway\"~\"crossing\""]
+    },
+    "street-lamps": {
+      "node": ["\"highway\"~\"street_lamp\""]
+    },
+    "roundabout": {
+      "way": ["\"highway\"~\"roundabout\""]
+    },
+    "cycle-lane-on-road": {
+      "way": ["\"cycleway\"~\"lane\""]
+    },
+    "shark-teeth": {
+      "way": ["\"highway\"", "\"junction\""]
+    },
+    "bus-stops":  {
+      "node": ["\"highway\"~\"bus_stop\""]
+    },
+
+    "stop-signs":  ["\"highway\"~\"stop\""]
+  }
+}
