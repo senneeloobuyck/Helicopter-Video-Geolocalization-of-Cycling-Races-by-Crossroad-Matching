@@ -6,6 +6,7 @@ import config
 
 class GoogleMaps() :
 
+    # initialize the key
     def __init__(self, key) :
         self.key = key
 
