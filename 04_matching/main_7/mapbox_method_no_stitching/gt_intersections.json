@@ -1,0 +1,144 @@
+{
+    "24": {
+        "GT_intersections": ["50.7766774;3.5255084"],
+        "Generating_MB": false
+    },
+    "51": {
+        "GT_intersections": ["50.7786715;3.5252944", "50.7788689;3.5254466"],
+        "Generating_MB": false
+    },
+    "255": {
+        "GT_intersections": ["50.7684072;3.5304704", "50.7688945;3.5296422", "50.7686638;3.5306849"],
+        "Generating_MB": false
+    },
+    "366": {
+        "GT_intersections": ["50.7654089;3.54285", "50.7658722;3.5443585", "50.765399;3.5427992", "50.76572;3.5426027"],
+        "Generating_MB": false
+    },
+    "387": {
+        "GT_intersections": ["50.7658722;3.5443585", "50.7659298;3.5440658", "50.7660379;3.5434854"],
+        "Generating_MB": false
+    },
+    "453": {
+        "GT_intersections": ["50.7631091;3.5572234", "50.7629614;3.5575488"],
+        "Generating_MB": false
+    },
+    "630": {
+        "GT_intersections": ["50.7640725;3.5833025"],
+        "Generating_MB": false
+    },
+    "831": {
+        "GT_intersections": ["50.7849247;3.5718149"],
+        "Generating_MB": false
+    },
+    "888": {
+        "GT_intersections": ["50.7917023;3.5698501"],
+        "Generating_MB": false
+    },
+    "1020": {
+        "GT_intersections": ["50.8013077;3.5782396"],
+        "Generating_MB": false
+    },
+    "1239": {
+        "GT_intersections": ["50.7963052;3.5876732"],
+        "Generating_MB": false
+    },
+    "1266": {
+        "GT_intersections": ["50.7954945;3.5886356"],
+        "Generating_MB": false
+    },
+    "1296": {
+        "GT_intersections": ["50.7958647;3.5910548", "50.7959163;3.5913055"],
+        "Generating_MB": false
+    },
+    "1302": {
+        "GT_intersections": ["50.7975002;3.5913741"],
+        "Generating_MB": false
+    },
+    "1329": {
+        "GT_intersections": ["50.8035677;3.5949456"],
+        "Generating_MB": false
+    },
+    "1365": {
+        "GT_intersections": ["50.8055477;3.59669", "50.8056089;3.5969718"],
+        "Generating_MB": false
+    },
+    "1443": {
+        "GT_intersections": ["50.8156554;3.6037871", "50.8154024;3.6035721"],
+        "Generating_MB": false
+    },
+    "1482": {
+        "GT_intersections": ["50.8224098;3.6035905", "50.8224207;3.6038774", "50.8224194;3.6036744"],
+        "Generating_MB": false
+    },
+    "1521": {
+        "GT_intersections": ["50.8226612;3.6072497"],
+        "Generating_MB": false
+    },
+    "1551": {
+        "GT_intersections": ["50.8211491;3.61411778"],
+        "Generating_MB": false
+    },
+    "1599": {
+        "GT_intersections": ["50.8173369;3.6196135"],
+        "Generating_MB": false
+    },
+    "1683": {
+        "GT_intersections": ["50.8171798;3.6342832"],
+        "Generating_MB": false
+    },
+    "1710": {
+        "GT_intersections": ["50.8178623;3.6396242"],
+        "Generating_MB": false
+    },
+    "1920": {
+        "GT_intersections": ["50.8286171;3.6348673", "50.8284866;3.6349954"],
+        "Generating_MB": false
+    },
+    "2118": {
+        "GT_intersections": ["50.836632;3.650465"],
+        "Generating_MB": false
+    },
+    "2175": {
+        "GT_intersections": ["50.8407582;3.6363852", "50.8410136;3.6351704"],
+        "Generating_MB": false
+    },
+    "2256": {
+        "GT_intersections": ["50.8431527;3.6440709"],
+        "Generating_MB": false
+    },
+    "2286": {
+        "GT_intersections": ["50.8433633;3.6459059"],
+        "Generating_MB": false
+    },
+    "2313": {
+        "GT_intersections": ["50.8465495;3.6435285"],
+        "Generating_MB": false
+    },
+    "2337": {
+        "GT_intersections": ["50.8486315;3.6435977"],
+        "Generating_MB": false
+    },
+    "2424": {
+        "GT_intersections": ["50.8563911;3.6526415", "50.856409;3.652525"],
+        "Generating_MB": false
+    },
+    "2451": {
+        "GT_intersections": ["50.854777;3.6552549"],
+        "Generating_MB": false
+    },
+    "2508": {
+        "GT_intersections": ["50.8566969;3.6653184"],
+        "Generating_MB": false
+    },
+    "2553": {
+        "GT_intersections": ["50.8539329;3.6718241", "50.853858;3.6718234", "50.8537081;3.6718167"],
+        "Generating_MB": false
+    },
+    "2718": {
+        "GT_intersections": ["50.839237;3.6678851", "50.8392945;3.6676683"],
+        "Generating_MB": false
+    }
+}
+
+
